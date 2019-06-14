@@ -13,7 +13,7 @@
 <tr>
 
 <td>
-<img src ="C:\Users\Public\Pictures\Sample Pictures\IMG_20190610_190207.jpg" alt="Harshitha's profile photo" height = "100" width = "100">
+<img src ="harshitha.jpg" alt="Harshitha's profile photo" height = "100" width = "100">
 
 </td>
 
